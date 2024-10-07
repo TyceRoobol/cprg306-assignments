@@ -2,7 +2,7 @@
 
 import ItemList from "./item-list";
 
-const Page = () => {
+export default function Page() {
   return (
     <main>
       <h1 className="text-3xl font-bold text-center">Shopping List</h1>
@@ -11,4 +11,3 @@ const Page = () => {
   );
 };
 
-export default Page;
