@@ -7,6 +7,7 @@ export default function Main() {
       <p><a href="./week-4">week 4</a></p>
       <p><a href="./week-5">week 5</a></p>
       <p><a href="./week-6">week 6</a></p>
+      <p><a href="./week-7">week 7</a></p>
     </main>
   )
 }
